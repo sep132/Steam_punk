@@ -1,9 +1,13 @@
 class Items:
-    def __init__(self,atk,dfs,primary_number):
-        pass
+    def __init__(self,atk,value,effect):
         self.atk = atk
-        self.dfs = dfs
-        self.primary_number = primary_number
+        self.value = value
+        self.effect = effect
         
-    def 
+    items_list = {
+        "modified_exoskeleton":{
+            "name": "개조화 외골격"
+            
+        }
+    }
 
