@@ -3,5 +3,5 @@ from items import Items
 
 class Rogue():
     def __init__(self):
-        
+        pass
 
